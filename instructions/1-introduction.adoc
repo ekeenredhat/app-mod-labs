@@ -12,7 +12,7 @@ This demo will walk you thorough 2 phases (_Assess_, _Rationalize_) as following
 
    1. Assessment of the legacy application using https://www.konveyor.io/tools/tackle/[Konveyor Tackle^] 
    2. Analysis of the legacy application archive and refactor the application using https://access.redhat.com/documentation/en-us/migration_toolkit_for_applications/5.3[Migration Toolkit for Applications^]
-   3. Deploy the modernized applications to Kubernetes/OpenShift using https://access.redhat.com/documentation/en-us/openshift_container_platform/4.10/html-single/cicd/index#gitops[OpenShift GitOps (ArgCD)^]
+   3. Deploy the modernized applications to Kubernetes/OpenShift using https://access.redhat.com/documentation/en-us/openshift_container_platform/4.10/html-single/cicd/index#gitops[OpenShift GitOps (ArgoCD)^]
    4. Migration of a database to OpenShift virtualization using https://access.redhat.com/documentation/en-us/migration_toolkit_for_virtualization/2.3[Migration Toolkit for Virtualization^]
 
 == Explore the environment
